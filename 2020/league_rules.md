@@ -1,7 +1,7 @@
 ## 2020 league rules
-* salary cap draft (e.g: auction)
-* starting budget is $200
-* your keeper subtracts from your starting budget:
+* Salary cap draft
+* Starting budget is $200
+* Your keeper subtracts from your starting budget:
 	* 1st round keeper: costs $35 (starting budget is $165)
 	* 2nd round keeper: costs $30 (starting budget is $170)
 	* 3: $25
@@ -18,7 +18,9 @@
 	* 14: $2
 	* 15: $1 (starting budget is $199)
 	* 16: $0
-* helpul links
-	* [overall rankings](overall_rankings.pdf)
-	* [position group rankings](position_group_rankings.pdf)
-* next year, if you decide to keep the same keeper it will cost a little bit more. How much more is TBD.
+* Next year, you can't keep the same keeper you picked this year
+* There may be additional rules added here throughout the season 
+
+### Helpul links
+* [overall rankings](overall_rankings.pdf)
+* [position group rankings](position_group_rankings.pdf)
