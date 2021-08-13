@@ -15,5 +15,5 @@
 * Ask if anything unclear!
 
 ### Helpul links
-* [last year draft](/2020/draft_results.pdf)
+* [last year draft recap](/2020/draft_results.pdf)
 * [overall player rankings for this year's draft](overall_rankings.pdf)
