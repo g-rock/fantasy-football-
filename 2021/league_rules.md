@@ -9,11 +9,11 @@
 * Salary cap draft
 * Starting budget is $200
 * Your keeper subtracts from your starting budget
-* Keeper costs what you paid for them in last year's draft. See [this link](./2020/draft_results.pdf) to find what u paid for a player last year
+* Keeper costs what you paid for them in last year's draft. See [this link](/2020/draft_results.pdf) to find what u paid for a player last year
 * An undrafted keeper (someone picked up off the waiver wire) costs $5
 * You can't keep a player you kept the previous year
 * Ask if anything unclear!
 
 ### Helpul links
-* [last year draft](../2020/draft_results.pdf)
+* [last year draft](/2020/draft_results.pdf)
 * [overall rankings](overall_rankings.pdf)
